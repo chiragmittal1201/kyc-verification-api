@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+data/aadhaar/*
+data/bank/*
+data/images/*
+
+!data/aadhaar/.gitkeep
+!data/bank/.gitkeep
+!data/images/.gitkeep
+
+logs/
